@@ -477,6 +477,10 @@ strong {
   max-width: 1440px;
   margin: 0 auto;
 }
+.job ul {
+  list-style: circle;
+  margin-left: 15px;
+}
 @media screen and (max-width: 630px) {
   .intro {
     padding: 120px 70px;
