@@ -172,6 +172,10 @@ a {
   font-weight: 700;
   color: inherit;
 }
+.job ul {
+  list-style: circle !important;
+  margin-left: 15px !important;
+}
 ul {
   list-style: none;
   padding: 0;
@@ -476,10 +480,6 @@ strong {
   justify-content: space-around;
   max-width: 1440px;
   margin: 0 auto;
-}
-.job ul {
-  list-style: circle;
-  margin-left: 15px;
 }
 @media screen and (max-width: 630px) {
   .intro {
